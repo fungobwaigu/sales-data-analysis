@@ -30,15 +30,9 @@ The dataset, initially fraught with duplicates, invalid entries, and missing val
 ## Repository Structure 
 
 sales-data-analysis/
-	Assets
-│   └── Screenshots/  
-│       ├── data-cleaning.png  
-│       └── cleaned-data.png	
-│       └── regional-summary.png		
-├── Original_Data/  
-│   └── Original_Data.xlsx : Raw dataset preserved for reference. 
-├── Solution/  
-│   └── Cleaned_Data_and_Report.xlsx(4 sheets - Raw_Data, Data_Instructions,Working_Sheet, Solution_Sheet )  
+	Assets > Screenshots > data-cleaning.png; cleaned-data.png; regional-summary.png		
+├── Original_Data >  Original_Data.xlsx : Raw dataset preserved for reference. 
+├── Solution > Cleaned_Data_and_Report.xlsx(4 sheets - Raw_Data, Data_Instructions,Working_Sheet, Solution_Sheet )  
 └── README.md Documentation of methodology and insights.
   
 
