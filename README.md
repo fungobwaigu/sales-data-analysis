@@ -27,18 +27,30 @@ The dataset, initially fraught with duplicates, invalid entries, and missing val
 
 ---
 
+## Repository Structure 
+
+sales-data-analysis/
+	Assets
+│   └── Screenshots/  
+│       ├── data-cleaning.png  
+│       └── cleaned-data.png	
+│       └── regional-summary.png		
+├── Original_Data/  
+│   └── Original_Data.xlsx : Raw dataset preserved for reference. 
+├── Solution/  
+│   └── Cleaned_Data_and_Report.xlsx(4 sheets - Raw_Data, Data_Instructions,Working_Sheet, Solution_Sheet )  
+└── README.md Documentation of methodology and insights.
+  
+
+---
+
 ## Insights  
 - Generated a summary table of **total quantity sold** and **total sales value** per region.  
-- Identified regional with highest sales and Revenue.  
+- The South Region had the highest and sales value, accounting for 39% of Total Revenue. 
+- The North had the least sales and Revenue. 
 
 ---
 
-## Repository Structure  
-- `original_data.xlsx`: Raw dataset preserved for reference.  
-- `cleaned_data.xlsx`: Processed dataset with cleaned data and summary table.  
-- `README.md`: Documentation of methodology and insights.  
-
----
 
 ## Skills Applied  
 - **Data Cleaning**: Duplicate removal, handling missing/invalid data.  
@@ -50,7 +62,7 @@ The dataset, initially fraught with duplicates, invalid entries, and missing val
 ---
 
 ## Acknowledgments  
-This project was completed as part of the **3MTT Data Analytics and Visualization Fellowship**,
+This *mini_project* was completed as part of the **3MTT Data Analytics and Visualization Fellowship**,
  aimed at building practical data skills for real-world applications.  
 
 ---
@@ -58,5 +70,8 @@ This project was completed as part of the **3MTT Data Analytics and Visualizatio
 *For questions or feedback, contact https://www.linkedin.com/in/fungobe/.*  
 
 ---  
-**🔍 Explore the files above to view the cleaned dataset, summary table, and full report!**  
 
+**🔍 follow the this link *https://tinyurl.com/ycp3pynx*  view the cleaned dataset, summary table, and full report! in google sheets**  
+
+
+  
