@@ -66,7 +66,7 @@ This *mini_project* was completed as part of the **3MTT Data Analytics and Visua
 
 ---  
 
-**🔍 follow the this link *https://tinyurl.com/ycp3pynx*  view the cleaned dataset, summary table, and full report! in google sheets**  
+**🔍 follow the this link *https://tinyurl.com/ycyn6hzf*  view the cleaned dataset, summary table, and full report! in google sheets**  
 
 
   
